@@ -31,7 +31,7 @@ Contact Me
 For collaborations, inquiries, or feedback, feel free to reach out:
 
 Email: Mustafa.Akboga@my-aolcc.com
-GitHub: Visit my GitHub profile https://github.com/mustafaakbogaaa
+Visit my GitHub profile https://github.com/mustafaakbogaaa
 
 License
 This project is licensed under the MIT License. See the LICENSE.md file for more details.
