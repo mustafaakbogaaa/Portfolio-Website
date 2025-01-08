@@ -10,13 +10,19 @@ This portfolio website is designed to provide visitors with an overview of my pr
 Features
 Responsive Design: The layout adapts seamlessly to different screen sizes.
 Dynamic Project Section: Projects are added dynamically using JavaScript.
-Contact Form: A simple and functional contact form with client-side validation.
+
+Contact Form: A simple and functional contact form with client-side validation
+
 Clean Aesthetic: Minimalistic design for a professional appearance.
 Technologies Used
+
 HTML: For structuring the website content.
+
 CSS: For styling and layout, ensuring a visually appealing and responsive design.
+
 JavaScript: For adding dynamic content and handling form interactivity.
 About Me
+
 I am a passionate web developer with a focus on creating functional and aesthetically pleasing web solutions. This project reflects my ability to design and develop a user-friendly website while adhering to best coding practices.
 
 Feel free to explore the code and adapt it for your own portfolio or projects!
